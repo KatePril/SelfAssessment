@@ -4,19 +4,20 @@
   - Object: 🖐️ used
   - this: 🖐️ used
   - lambda expressions: 🖐️ used
-  - instanceof: 🎓 known
-  - getClass(): 🎓 known
-  - destructuring
-  - generator
-  - interface Iterator<E>
+  - instanceof: 🖐️ used
+  - getClass(): 🖐️ used
+  - destructuring: 🎓 known
+  - chaining: 🖐️ used
+  - generator: 🎓 known
+  - interface Iterator: 🎓 known
   - getters and setters: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
-  - bitwise operators
+  - bitwise operators: 👂 heard
   - ternary operator: 🖐️ used
   - void: 🖐️ used
-  - String Templates
-  - super
+  - String Templates: 🖐️ used
+  - super: 🖐️ used
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
@@ -42,24 +43,24 @@
   - List: 🎓 known
   - ArrayList: 🚀 constructed (primitive realisation)
   - LinkedList: 🚀 constructed (primitive realisation)
-  - Map
-  - HashMap
-  - LinkedHashMap
-  - TreeMap
-  - Set
-  - HashSet
-  - LinkedHashSet
-  - TreeSet
-  - mixin
-  - extend  
+  - Map: 🖐️ used
+  - HashMap: 🖐️ used
+  - LinkedHashMap: 👂 heard
+  - TreeMap: 🎓 known
+  - Set: 🖐️ used
+  - HashSet: 🎓 known
+  - LinkedHashSet: 👂 heard
+  - TreeSet: 👂 heard
+  - mixin: 👂 heard
+  - extend: 🖐️ used 
   - null: 🖐️ used
-  - Timer
-  - regular expression
-  - Date
-  - BigInteger
+  - Timer: 👂 heard
+  - regular expression: 🖐️ used
+  - Date: 🎓 known
+  - BigInteger: 🎓 known
 - Infrastructure
   - JVM: 🖐️ used
-  - Maven
-  - pom.xml
-  - Gradle
-  - build.gradle
+  - Maven: 🖐️ used
+  - pom.xml: 🖐️ used
+  - Gradle: 👂 heard
+  - build.gradle: 👂 heard
