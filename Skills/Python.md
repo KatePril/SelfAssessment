@@ -1,0 +1,76 @@
+## Programming fundamental concepts
+
+- Language
+  - Object: 🎓 known
+  - self: 🖐️ used
+  - lambda functions: 🖐️ used
+  - async function
+  - __call__()
+  - __name__()
+  - apply
+  - isinstance: 🎓 known
+  - *args
+  - **kwargs
+  - type()
+  - destructuring
+  - generator
+  - __iter__()
+  - __next__()
+  - async generator
+  - __aiter__()
+  - __anext__()
+  - chaining: 🖐️ used
+  - optional chaining
+  - global: 🖐️ used
+  - getters and setters: 🖐️ used
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
+  - yield
+  - await
+  - template literal: 🖐️ used
+  - del
+  - in: 🖐️ used
+  - super
+  - getattr()
+  - setattr()
+  - list comprehension: 🖐️ used
+- Statements
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - async for
+  - raise: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export
+  - try..catch: 🖐️ used
+  - class: 🖐️ used
+  - Exception: 🖐️ used
+  - with: 🖐️ used
+- Functions
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
+- Data structures
+  - list: 🖐️ used
+  - mixin
+  - extend
+  - dict: 🖐️ used
+  - set: 🖐️ used
+  - None: 🖐️ used
+  - weak references
+  - time (module)
+  - asyncio (module)
+  - threading (module)
+  - re (module)
+  - datetime (module)
+  - bignum
+- Infrastructure
+  - pip: 🖐️ used
