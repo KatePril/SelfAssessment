@@ -1,10 +1,10 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
+  - Procedural programming: 🎓 known
   - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
   - Functional programming: 🖐️ used
   - Prototype-based programming
   - Object-oriented programming: 🖐️ used
@@ -12,12 +12,12 @@
   - Generic programming
   - Concurrent computing
   - Asyncronous programming: 👂 heard
-  - Parallel programming
+  - Parallel programming: 🎓 known
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Domain-specific languages: 🖐️ used
+  - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model
 - OOP basics
@@ -25,7 +25,7 @@
   - new: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Async method
+  - Async method: 🎓 known
   - Getters, Setters: 🖐️ used
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
@@ -36,31 +36,31 @@
   - Abstract class: 🖐️ used
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
-  - Hidden class
+  - Hidden class: 🖐️ used
   - Object form
   - instance: 🖐️ used
-  - Introspection
-  - Reflection
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
 - Patterns
   - Singleton: 🎓 known
   - Factory Method: 🎓 known
   - Abstract Factory: 🎓 known
   - Adapter: 🎓 known
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
   - Bridge: 🎓 known
   - Builder: 🎓 known
-  - Prototype
+  - Prototype: 🎓 known
   - Composite: 🎓 known
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Decorator: 🎓 known
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
