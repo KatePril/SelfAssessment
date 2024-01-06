@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 👂 heard
+  - this: 👂 heard
+  - arrow function: 👂 heard
+  - async function: 👂 heard
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof: 👂 heard
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 👂 heard
   - destructuring
   - generator
   - iterator
@@ -20,70 +20,70 @@
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 🎓 known
   - globalThis
   - window
-  - getters and setters
+  - getters and setters: 👂 heard
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
+  - equality operators: 👂 heard
+  - logical operators: 👂 heard
   - bitwise operators
-  - ternary operator
-  - void
+  - ternary operator: 👂 heard
+  - void: 🎓 known
   - yield
   - await
   - template literal
   - strict mode
   - delete
-  - in
-  - super
+  - in: 👂 heard
+  - super: 👂 heard
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🎓 known
+  - for: 🖐️ used
+  - for..in: 🎓 known
   - for..of
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw: 🎓 known
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🎓 known
+  - export: 🎓 known
   - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - try..catch: 🎓 known
+  - switch: 🖐️ used
+  - class: 🎓 known
+  - new Error: 🎓 known
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 🎓 known
+  - return: 🖐️ used
+  - default parameters: 🎓 known
   - functional object
 - Data structures
-  - Array
+  - Array: 🎓 known
   - mixin
-  - extend
+  - extend: 🎓 known
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
+  - RegExp: 👂 heard
   - Date
-  - BigInt
+  - BigInt: 🎓 known
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier
   - MDN
