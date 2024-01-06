@@ -4,45 +4,45 @@
   - Object: 🎓 known
   - self: 🖐️ used
   - lambda functions: 🖐️ used
-  - async function
-  - __call__()
-  - __name__()
-  - apply
+  - async function: 🖐️ used
+  - __call__(): 🎓 known
+  - __name__(): 🖐️ used
+  - apply: 🎓 known
   - isinstance: 🎓 known
-  - *args
-  - **kwargs
-  - type()
-  - destructuring
-  - generator
-  - __iter__()
-  - __next__()
-  - async generator
-  - __aiter__()
-  - __anext__()
+  - *args: 🖐️ used
+  - **kwargs: 🖐️ used
+  - type(): 🎓 known
+  - destructuring: 🎓 known
+  - generator: 🎓 known
+  - __iter__(): 🎓 known
+  - __next__(): 🎓 known
+  - async generator: 👂 heard
+  - __aiter__(): 👂 heard
+  - __anext__(): 👂 heard
   - chaining: 🖐️ used
-  - optional chaining
+  - optional chaining: 👂 heard
   - global: 🖐️ used
   - getters and setters: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
-  - bitwise operators
+  - bitwise operators: 👂 heard
   - ternary operator: 🖐️ used
   - void: 🖐️ used
-  - yield
-  - await
+  - yield: 🎓 known
+  - await: 🖐️ used
   - template literal: 🖐️ used
-  - del
+  - del: 🎓 known
   - in: 🖐️ used
-  - super
-  - getattr()
-  - setattr()
+  - super: 🖐️ used
+  - getattr(): 🎓 known
+  - setattr(): 🎓 known
   - list comprehension: 🖐️ used
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
   - for: 🖐️ used
   - for..in: 🖐️ used
-  - async for
+  - async for: 👂 heard
   - raise: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
@@ -60,17 +60,17 @@
   - functional object: 🖐️ used
 - Data structures
   - list: 🖐️ used
-  - mixin
-  - extend
+  - mixin: 👂 heard
+  - extend: 🖐️ used
   - dict: 🖐️ used
   - set: 🖐️ used
   - None: 🖐️ used
-  - weak references
-  - time (module)
-  - asyncio (module)
-  - threading (module)
-  - re (module)
-  - datetime (module)
-  - bignum
+  - weak references: 👂 heard
+  - time (module): 🎓 known
+  - asyncio (module): 👂 heard
+  - threading (module): 👂 heard
+  - re (module): 🎓 known
+  - datetime (module): 🎓 known
+  - bignum: 🎓 known
 - Infrastructure
   - pip: 🖐️ used
