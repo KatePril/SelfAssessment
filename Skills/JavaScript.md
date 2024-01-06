@@ -7,18 +7,18 @@
   - async function: 👂 heard
   - call
   - bind
-  - apply
+  - apply: 👂 heard
   - instanceof: 👂 heard
   - ...spread
   - ...rest
   - typeof: 👂 heard
-  - destructuring
-  - generator
-  - iterator
+  - destructuring: 👂 heard
+  - generator: 👂 heard
+  - iterator: 👂 heard
   - async generator
   - async iterator
-  - chaining
-  - optional chaining
+  - chaining: 🎓 known
+  - optional chaining: 👂 heard
   - IIFE
   - global: 🎓 known
   - globalThis
@@ -31,11 +31,11 @@
   - bitwise operators
   - ternary operator: 👂 heard
   - void: 🎓 known
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
+  - yield: 👂 heard
+  - await: 👂 heard
+  - template literal: 🎓 known
+  - strict mode: 🎓 known
+  - delete: 👂 heard
   - in: 👂 heard
   - super: 👂 heard
   - Symbol
@@ -46,7 +46,7 @@
   - do..while: 🎓 known
   - for: 🖐️ used
   - for..in: 🎓 known
-  - for..of
+  - for..of: 🎓 known
   - for await
   - throw: 🎓 known
   - break: 🖐️ used
@@ -64,10 +64,10 @@
   - function expression: 🎓 known
   - return: 🖐️ used
   - default parameters: 🎓 known
-  - functional object
+  - functional object: 🎓 known
 - Data structures
   - Array: 🎓 known
-  - mixin
+  - mixin: 👂 heard
   - extend: 🎓 known
   - typed arrays
   - Map: 🎓 known
@@ -75,11 +75,11 @@
   - undefined: 🎓 known
   - null: 🎓 known
   - Proxy
-  - weak collections
-  - timers
+  - weak collections: 👂 heard
+  - timers: 👂 heard
   - EventEmitter
   - RegExp: 👂 heard
-  - Date
+  - Date: 👂 heard
   - BigInt: 🎓 known
 - Infrastructure
   - V8
