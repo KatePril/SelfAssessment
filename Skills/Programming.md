@@ -5,52 +5,52 @@
   - identifier: 🖐️ used
   - variable: 🖐️ used
   - constant: 🖐️ used
-  - scalar
+  - scalar: 🎓 known
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap: 👂 heard
+  - heap: 🎓 known
   - function: 🖐️ used
   - procedure: 👂 heard
   - method: 🖐️ used
   - class: 🖐️ used
-  - prototype
-  - event
+  - prototype: 🎓 known
+  - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
-  - flag: 👂 heard
-  - lexical scope: 👂 heard
+  - flag: 🖐️ used
+  - lexical scope: 🖐️ used
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
   - interface: 🖐️ used
-  - contract
+  - contract: 🎓 known
   - module: 🖐️ used
-  - call stack
+  - call stack: 👂 heard
 - Functions
-  - signature
+  - signature: 🖐️ used
   - argument: 🖐️ used
   - parameter: 🖐️ used
-  - pure function
+  - pure function: 🎓 known
   - lambda expression: 🖐️ used
-  - side effects
-  - closure
+  - side effects: 🎓 known
+  - closure: 👂 heard
   - partial application
-  - curry
-  - higher order
+  - curry: 👂 heard
+  - higher order: 🎓 known
   - recursion: 🖐️ used
-  - callback
-  - listener
+  - callback: 👂 heard
+  - listener: 🖐️ used
   - compose
-  - pipe
-  - memoize
-  - wrapper
+  - pipe: 🖐️ used
+  - memoize: 🎓 known
+  - wrapper: 👂 heard
   - functor
   - monad
   - monoid
-  - generator
+  - generator: 👂 heard
   - coroutine
 - Data structures
   - array: 🖐️ used
@@ -64,43 +64,43 @@
   - set: 🖐️ used
   - hash table: 🎓 known
   - linked list: 🖐️ used
-  - doubly list
-  - unrolled list
-  - circular list
+  - doubly list: 🖐️ used
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
   - queue: 🎓 known
-  - stack
+  - stack: 🎓 known
   - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
+  - iterator: 🎓 known
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
+  - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
-  - compiler: 👂 heard
-  - transpiler
-  - linter
-  - polyfill
+  - compiler: 🖐️ used
+  - transpiler: 🎓 known
+  - linter: 🎓 known
+  - polyfill: 🎓 known
   - debugger: 🖐️ used
-  - garbage collection
+  - garbage collection: 🎓 known
   - refactoring: 👂 heard
   - code review: 👂 heard
-  - antipatterns
+  - antipatterns: 🎓 known
   - paradigm: 👂 heard
   - algorithm: 🖐️ used
-  - magic numbers
+  - magic numbers: 🎓 known
   - hardcode: 🎓 known
-  - complexity
-  - decomposition
+  - complexity: 🎓 known
+  - decomposition: 🎓 known
   - spaghetti: 🎓 known
-  - silver bullet
-  - not invented here
-  - dead code
+  - silver bullet: 🎓 known
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
   - unreachable code: 🎓 known
   - duplicate code: 🎓 known
   - exception: 🖐️ used
-  - return early
+  - return early: 🎓 known
   - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used
