@@ -3,44 +3,67 @@
 - Language
   - Object: 👂 heard
   - this: 👂 heard
-  - arrow function: 👂 heard
-  - async function: 👂 heard
-  - call
-  - bind
-  - apply
   - instanceof: 👂 heard
   - ...spread
   - ...rest
   - typeof: 👂 heard
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String`
+  - `Symbol`
+  - `Infinity`
+  - `NaN`
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - Destructuring
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
   - IIFE
-  - global: 🎓 known
-  - globalThis
-  - window
   - getters and setters: 👂 heard
   - __proto__
   - prototype
   - equality operators: 👂 heard
   - logical operators: 👂 heard
+  - Logical Assignment
   - bitwise operators
   - ternary operator: 👂 heard
   - void: 🎓 known
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in: 👂 heard
-  - super: 👂 heard
-  - Symbol
+  - `yield`
+  - `await`
   - Reflect
+  - Async IIFE
+  - `global`: 🎓 known
+  - `globalThis`
+  - `window`
+  - `void`
+  - Template literal
+  - Strict mode
+  - Hoisting
+  - `delete`
+  - `in`: 👂 heard
+  - `super`: 👂 heard
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
+  - `extends`: 🎓 known
+  - `with`
+  - `new`
   - if: 🖐️ used
   - while: 🖐️ used
   - do..while: 🎓 known
@@ -57,29 +80,44 @@
   - try..catch: 🎓 known
   - switch: 🖐️ used
   - class: 🎓 known
-  - new Error: 🎓 known
+  - new: 🎓 known
   - with
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🎓 known
-  - return: 🖐️ used
+  - `return`: 🖐️ used
   - default parameters: 🎓 known
   - functional object
+  - Arrow function: 👂 heard
+  - Async function: 👂 heard
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
 - Data structures
-  - Array: 🎓 known
-  - mixin
-  - extend: 🎓 known
-  - typed arrays
-  - Map: 🎓 known
-  - Set: 🎓 known
-  - undefined: 🎓 known
-  - null: 🎓 known
-  - Proxy
-  - weak collections
-  - timers
+  - `Array`: 🎓 known
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
+  - Weak collections
+  - Typed arrays
+  - Mixins
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`: 🎓 known
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
+  - Timers
   - EventEmitter
   - RegExp: 👂 heard
-  - Date
   - BigInt: 🎓 known
 - Infrastructure
   - V8
@@ -87,3 +125,4 @@
   - npm: 👂 heard
   - prettier
   - MDN
+  - TC39
