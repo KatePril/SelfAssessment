@@ -2,8 +2,8 @@
 
 - Language
   - Object: 🎓 known
-  - self: 🖐️ used
-  - lambda functions: 🖐️ used
+  - self: 🙋 explained
+  - lambda functions: 🙋 explained
   - async function: 🖐️ used
   - __call__(): 🎓 known
   - __name__(): 🖐️ used
@@ -22,11 +22,11 @@
   - chaining: 🖐️ used
   - optional chaining: 👂 heard
   - global: 🖐️ used
-  - getters and setters: 🖐️ used
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
+  - getters and setters: 🙋 explained
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
   - bitwise operators: 👂 heard
-  - ternary operator: 🖐️ used
+  - ternary operator: 🙋 explained
   - void: 🖐️ used
   - yield: 🎓 known
   - await: 🖐️ used
@@ -38,32 +38,32 @@
   - setattr(): 🎓 known
   - list comprehension: 🖐️ used
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
   - async for: 👂 heard
-  - raise: 🖐️ used
-  - break: 🖐️ used
+  - raise: 🙋 explained
+  - break: 🙋 explained
   - continue: 🖐️ used
   - import: 🖐️ used
   - export
   - try..catch: 🖐️ used
-  - class: 🖐️ used
+  - class: 🙋 explained
   - Exception: 🖐️ used
   - with: 🖐️ used
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object: 🖐️ used
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🙋 explained
 - Data structures
-  - list: 🖐️ used
+  - list: 🙋 explained
   - mixin: 👂 heard
-  - extend: 🖐️ used
-  - dict: 🖐️ used
-  - set: 🖐️ used
+  - extend: 🙋 explained
+  - dict: 🙋 explained
+  - set: 🙋 explained
   - None: 🖐️ used
   - weak references: 👂 heard
   - time (module): 🎓 known
