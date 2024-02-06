@@ -12,22 +12,30 @@
   - ...spread
   - ...rest
   - typeof: 👂 heard
-  - destructuring: 👂 heard
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator
-  - async iterator
-  - chaining: 🎓 known
-  - optional chaining: 👂 heard
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
+  - `String`: 🎓 known
+  - `Symbol`
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - Destructuring: 👂 heard
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
+  - Async generator
+  - Async iterator
+  - Chaining: 🎓 known
+  - Optional chaining: 👂 heard
   - IIFE
-  - global: 🎓 known
-  - globalThis
-  - window
   - getters and setters: 👂 heard
   - __proto__
   - prototype
   - equality operators: 👂 heard
   - logical operators: 👂 heard
+  - Logical Assignment
   - bitwise operators
   - ternary operator: 👂 heard
   - void: 🎓 known
@@ -40,7 +48,33 @@
   - super: 👂 heard
   - Symbol
   - Reflect
+  - Async IIFE
+  - `global`: 🎓 known
+  - `globalThis`
+  - `window`
+  - `void`
+  - Template literal
+  - Strict mode
+  - Hoisting
+  - `delete`
+  - `in`: 👂 heard
+  - `super`: 👂 heard
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
+  - `extends`: 🎓 known
+  - `with`
+  - `new`
   - if: 🖐️ used
   - while: 🖐️ used
   - do..while: 🎓 known
@@ -57,29 +91,46 @@
   - try..catch: 🎓 known
   - switch: 🖐️ used
   - class: 🎓 known
-  - new Error: 🎓 known
+  - new: 🎓 known
   - with
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🎓 known
-  - return: 🖐️ used
+  - `return`: 🖐️ used
   - default parameters: 🎓 known
   - functional object: 🎓 known
+  - Arrow function: 👂 heard
+  - Async function: 👂 heard
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
 - Data structures
-  - Array: 🎓 known
-  - mixin: 👂 heard
-  - extend: 🎓 known
-  - typed arrays
-  - Map: 🎓 known
-  - Set: 🎓 known
+  - `Array`: 🎓 known
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
+  - Weak collections: 👂 heard
+  - Typed arrays: 👂 heard
   - undefined: 🎓 known
   - null: 🎓 known
-  - Proxy
-  - weak collections: 👂 heard
-  - timers: 👂 heard
+  - Mixins: 👂 heard
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`: 👂 heard
+  - `Date`: 👂 heard
+  - `Math`
+  - `Reflect`
+  - `Error`: 🎓 known
+  - `Atomics`
+  - `JSON`: 🖐️ used
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`: 🖐️ used
+  - Timers: 👂 heard
   - EventEmitter
   - RegExp: 👂 heard
-  - Date: 👂 heard
   - BigInt: 🎓 known
 - Infrastructure
   - V8
@@ -87,3 +138,4 @@
   - npm: 👂 heard
   - prettier
   - MDN
+  - TC39
