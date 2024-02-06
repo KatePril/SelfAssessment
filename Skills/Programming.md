@@ -1,31 +1,31 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐️ used
-  - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar: 🎓 known
-  - literal: 🖐️ used
-  - expression: 🖐️ used
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🖐️ used
+  - literal: 🙋 explained
+  - expression: 🙋 explained
   - heap: 🎓 known
-  - function: 🖐️ used
+  - function: 🙋 explained
   - procedure: 👂 heard
   - method: 🖐️ used
-  - class: 🖐️ used
+  - class: 🙋 explained
   - prototype: 🎓 known
   - event: 🖐️ used
   - type: 🖐️ used
-  - primitive types: 🖐️ used
-  - reference types: 🖐️ used
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
   - flag: 🖐️ used
   - lexical scope: 🖐️ used
   - code block: 🖐️ used
-  - conditions: 🖐️ used
-  - loops: 🖐️ used
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 🖐️ used
+  - interface: 🙋 explained
   - contract: 🎓 known
   - module: 🖐️ used
   - call stack: 👂 heard
@@ -53,7 +53,7 @@
   - generator: 👂 heard
   - coroutine
 - Data structures
-  - array: 🖐️ used
+  - array: 🙋 explained
   - structure: 👂 heard
   - record: 🖐️ used
   - enum: 🖐️ used
@@ -63,10 +63,10 @@
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🎓 known
-  - linked list: 🖐️ used
-  - doubly list: 🖐️ used
+  - linked list: 🙋 explained
+  - doubly list: 🙋 explained
   - unrolled list: 🎓 known
-  - circular list: 🎓 known
+  - circular list: 🙋 explained
   - queue: 🎓 known
   - stack: 🎓 known
   - deque: 🎓 known
