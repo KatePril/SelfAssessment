@@ -27,10 +27,11 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - constructor: 🙋 explained
-  - new: 🙋 explained
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
   - Static method: 🖐️ used
   - Method: 🖐️ used
+  - Static method: 🖐️ used
   - Async method: 🎓 known
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
@@ -44,12 +45,9 @@
   - Encapsulation: 🖐️ used
   - Hidden class: 🖐️ used
   - Object form
-  - instance: 🙋 explained
-  - Introspection: 🎓 known
-  - Reflection: 🎓 known
   - Instance: 🖐️ used
-  - Introspection
-  - Reflection
+  - Introspection: 🙋 explained
+  - Reflection: 🎓 known
   - The diamond problem
 - GRASP
   - Information expert
@@ -89,3 +87,6 @@
   - Memento: 🎓 known
   - Template Method: 🎓 known
   - Visitor: 🎓 known
+  - Reactor
+  - Active object
+  - Delegation

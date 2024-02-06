@@ -7,6 +7,12 @@
   - GRASP
   - SOLID: 🙋 explained
   - GoF patterns: 🖐️ used
+  - Modularity
+  - Components
+  - Directories
+  - GRASP
+  - SOLID
+  - GoF patterns
   - CQS
   - Leaking abstractions
   - Multiparadigm code

@@ -3,27 +3,32 @@
 - Language
   - Object: 👂 heard
   - this: 👂 heard
+  - arrow function: 👂 heard
+  - async function: 👂 heard
+  - call
+  - bind
+  - apply: 👂 heard
   - instanceof: 👂 heard
   - ...spread
   - ...rest
   - typeof: 👂 heard
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
+  - `String`: 🎓 known
   - `Symbol`
-  - `Infinity`
-  - `NaN`
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
   - `undefined`: 🎓 known
   - `null`: 🎓 known
-  - Destructuring
-  - Generators
-  - Iterators
+  - Destructuring: 👂 heard
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
-  - Chaining
-  - Optional chaining
+  - Chaining: 🎓 known
+  - Optional chaining: 👂 heard
   - IIFE
   - getters and setters: 👂 heard
   - __proto__
@@ -34,8 +39,14 @@
   - bitwise operators
   - ternary operator: 👂 heard
   - void: 🎓 known
-  - `yield`
-  - `await`
+  - yield: 👂 heard
+  - await: 👂 heard
+  - template literal: 🎓 known
+  - strict mode: 🎓 known
+  - delete: 👂 heard
+  - in: 👂 heard
+  - super: 👂 heard
+  - Symbol
   - Reflect
   - Async IIFE
   - `global`: 🎓 known
@@ -69,7 +80,7 @@
   - do..while: 🎓 known
   - for: 🖐️ used
   - for..in: 🎓 known
-  - for..of
+  - for..of: 🎓 known
   - for await
   - throw: 🎓 known
   - break: 🖐️ used
@@ -87,7 +98,7 @@
   - function expression: 🎓 known
   - `return`: 🖐️ used
   - default parameters: 🎓 known
-  - functional object
+  - functional object: 🎓 known
   - Arrow function: 👂 heard
   - Async function: 👂 heard
   - `Function.prototype.call`
@@ -97,25 +108,27 @@
   - `Array`: 🎓 known
   - `Map`: 🎓 known
   - `Set`: 🎓 known
-  - Weak collections
-  - Typed arrays
-  - Mixins
+  - Weak collections: 👂 heard
+  - Typed arrays: 👂 heard
+  - undefined: 🎓 known
+  - null: 🎓 known
+  - Mixins: 👂 heard
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
-  - `Date`
+  - `RegExp`: 👂 heard
+  - `Date`: 👂 heard
   - `Math`
   - `Reflect`
   - `Error`: 🎓 known
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
-  - Timers
+  - `console`: 🖐️ used
+  - Timers: 👂 heard
   - EventEmitter
   - RegExp: 👂 heard
   - BigInt: 🎓 known

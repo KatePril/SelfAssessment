@@ -5,32 +5,32 @@
   - Modeling
   - Subject domain
   - Algorithm: 🖐️ used
-  - Syntax
+  - Syntax: 🙋 explained
   - Semantics
-  - Abstraction
+  - Abstraction: 🙋 explained
   - Paradigm: 👂 heard
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
+  - Programm: 🙋 explained
+  - Programming paradigm: 🎓 known
+  - Programming language: 🙋 explained
+  - Contract: 🎓 known
   - Module: 🖐️ used
-  - Library
-  - Package
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
-  - Framework
-  - Platform
-  - Source code
+  - Framework: 🖐️ used
+  - Platform: 👂 heard
+  - Source code: 👂 heard
   - Object code
-  - Machine code
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering
+  - Software engineering: 🎓 known
   - Decomposition
-  - Control flow
+  - Control flow: 👂 heard
   - Data flow
-  - Code reuse
+  - Code reuse: 🙋 explained
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 🙋 explained
+  - KISS principle: 🙋 explained
 - Syntax and concepts
   - value: 🙋 explained
   - identifier: 🙋 explained
@@ -49,40 +49,63 @@
   - type: 🖐️ used
   - primitive types: 🙋 explained
   - reference types: 🙋 explained
-  - flag: 🙋 explained
-  - lexical scope: 🙋 explained
+  - flag: 🖐️ used
+  - lexical scope: 🖐️ used
   - code block: 🖐️ used
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
   - interface: 🙋 explained
-  - contract: 🎓 known
-  - module: 🖐️ used
-  - call stack: 👂 heard
+  - Namespaces
+  - Call stack
+  - Naming conventions: 🙋 explained
+  - Coding conventions: 🙋 explained
+  - Camel case: 🙋 explained
+  - Snake case: 🙋 explained
+  - Kebab case: 🙋 explained
+  - Trailing commas: 🖐️ used
+  - Return early
+  - Fail-fast
+- Types
+  - Primitive types: 🙋 explained
+  - Reference types: 🙋 explained
+  - Type systems
+  - Strong typing: 🎓 known
+  - Weak typeing: 🎓 known
+  - Duck typing
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
+  - Nominal typing
+  - Structural typing
+  - Explicit typing
+  - Type inference
+  - Covariance
+  - Contravariance
 - Functions
-  - signature: 🖐️ used
-  - argument: 🖐️ used
-  - parameter: 🖐️ used
-  - pure function: 🎓 known
+  - Signature: 🖐️ used
+  - argument: 🙋 explained
+  - paramete: 🙋 explained
+  - Pure function
   - lambda expression: 🖐️ used
-  - side effects: 🎓 known
-  - closure: 👂 heard
-  - partial application
-  - curry: 👂 heard
-  - higher order: 🎓 known
-  - recursion: 🖐️ used
-  - callback: 👂 heard
-  - listener: 🖐️ used
-  - compose
-  - pipe: 🖐️ used
-  - memoize: 🎓 known
-  - wrapper: 👂 heard
-  - functor
-  - monad
-  - monoid
-  - generator: 👂 heard
-  - coroutine
+  - Side effects: 🙋 explained
+  - Closure
+  - Partial application
+  - Currying
+  - Higher order: 🙋 explained
+  - recursion: 🙋 explained
+  - Tail call optimisation
+  - Callback: 👂 heard
+  - Listener: 🖐️ used
+  - Composition: 🖐️ used
+  - Pipe: 👂 heard
+  - Memoize
+  - Wrapper: 👂 heard
+  - Functor
+  - Monad
+  - Monoid
+  - Generator
+  - Coroutine: 👂 heard
 - Data structures
   - array: 🙋 explained
   - structure: 👂 heard
@@ -103,29 +126,12 @@
   - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator: 🎓 known
-  - mutable state: 🖐️ used
-  - immutable state: 🖐️ used
-  - serialization: 🖐️ used
-  - string parsing: 🖐️ used
-- Process & style
-  - compiler: 🖐️ used
-  - transpiler: 🎓 known
-  - linter: 🎓 known
-  - polyfill: 🎓 known
-  - debugger: 🖐️ used
-  - garbage collection: 🎓 known
-  - refactoring: 👂 heard
-  - code review: 👂 heard
-  - exception: 🖐️ used
-  - return early: 🎓 known
-  - unittest: 🖐️ used
-  - Iterator
+  - Iterator: 🎓 known
   - Mutable state: 🖐️ used
   - Immutable state: 🖐️ used
   - Serialization: 👂 heard
   - String parsing: 🖐️ used
-  - JSON
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -140,9 +146,9 @@
   - URI
 - Process and tools
   - Compiler: 👂 heard
-  - Just-in-time compilation: 🎓 known
-  - Ahead-of-time compilation: 🎓 known
-  - Transpiler: 🎓 known
+  - Just-in-time compilation
+  - Ahead-of-time compilation
+  - Transpiler
   - Linter
   - Polyfill
   - Interpreter
@@ -174,21 +180,21 @@
   - Soft code
   - Cryptic code
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity: 🙋 explained
   - Action at a distance
   - Spaghetti: 🙋 explained
-  - Silver bullet: 🙋 explained
-  - Not invented here: 🙋 explained
+  - Silver bullet: 🎓 known
+  - Not invented here: 🎓 known
   - Dead code: 🙋 explained
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
-  - Premature optimization
+  - Premature optimization: 🎓 known
   - Micro-optimization
-  - Nested loops: 🖐️ used
+  - Nested loops: 🙋 explained
   - Long method/function/procedure: 🙋 explained
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
-  - Too many parameters: 🎓 known
+  - Too many parameters: 🙋 explained
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case: 🙋 explained
@@ -200,18 +206,18 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode: 👂 heard
   - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operation systems
   - Interrupts
-  - Drivers
+  - Drivers: 👂 heard
   - Kernel
   - Ring
   - Virtual memory
-  - File system: 👂 heard
+  - File system
   - Linux: 👂 heard
   - Unix
   - BSD
@@ -220,8 +226,8 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
-  - Escape sequence
+  - ASCII: 🖐️ used
+  - Escape sequence: 🖐️ used
   - RFC
   - IETF
   - IANA
@@ -232,6 +238,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
