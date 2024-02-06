@@ -1,65 +1,66 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - lambda expressions: 🖐️ used
-  - instanceof: 🎓 known
-  - getClass(): 🎓 known
-  - destructuring
-  - generator
-  - interface Iterator<E>
-  - getters and setters: 🖐️ used
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
-  - String Templates
-  - super
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - lambda expressions: 🙋 explained
+  - instanceof: 🖐️ used
+  - getClass(): 🖐️ used
+  - destructuring: 🎓 known
+  - chaining: 🖐️ used
+  - generator: 🎓 known
+  - interface Iterator: 🖐️ used
+  - getters and setters: 🙋 explained
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 👂 heard
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - String Templates: 🙋 explained
+  - super: 🙋 explained
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for-each: 🖐️ used
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for-each: 🙋 explained
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
   - export
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Exception: 🎓 known
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Exception: 🖐️ used
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - functional object: 🖐️ used
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - functional object: 🙋 explained
 - Data structures
-  - array: 🖐️ used
-  - List: 🎓 known
+  - array: 🙋 explained
+  - List: 🙋 explained
   - ArrayList: 🚀 constructed (primitive realisation)
   - LinkedList: 🚀 constructed (primitive realisation)
-  - Map
-  - HashMap
-  - LinkedHashMap
-  - TreeMap
-  - Set
-  - HashSet
-  - LinkedHashSet
-  - TreeSet
-  - mixin
-  - extend  
+  - Map: 🖐️ used
+  - HashMap: 🖐️ used
+  - LinkedHashMap: 👂 heard
+  - TreeMap: 🎓 known
+  - Set: 🖐️ used
+  - HashSet: 🎓 known
+  - LinkedHashSet: 👂 heard
+  - TreeSet: 👂 heard
+  - mixin: 👂 heard
+  - extend: 🖐️ used 
   - null: 🖐️ used
-  - Timer
-  - regular expression
-  - Date
-  - BigInteger
+  - Timer: 👂 heard
+  - regular expression: 🖐️ used
+  - Date: 🎓 known
+  - BigInteger: 🎓 known
 - Infrastructure
   - JVM: 🖐️ used
-  - Maven
-  - pom.xml
-  - Gradle
-  - build.gradle
+  - Maven: 🖐️ used
+  - pom.xml: 🖐️ used
+  - Gradle: 🖐️ used
+  - build.gradle: 🖐️ used

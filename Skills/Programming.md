@@ -32,80 +32,59 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - value: 🖐️ used
-  - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar
-  - literal: 🖐️ used
-  - expression: 🖐️ used
-  - heap: 👂 heard
-  - function: 🖐️ used
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🖐️ used
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🎓 known
+  - function: 🙋 explained
   - procedure: 👂 heard
   - method: 🖐️ used
-  - class: 🖐️ used
-  - prototype
-  - event
+  - class: 🙋 explained
+  - prototype: 🎓 known
+  - event: 🖐️ used
   - type: 🖐️ used
-  - flag: 👂 heard
-  - lexical scope: 👂 heard
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
   - code block: 🖐️ used
-  - conditions: 🖐️ used
-  - loops: 🖐️ used
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 🖐️ used
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
-- Types
-  - Primitive types: 🖐️ used
-  - Reference types: 🖐️ used
-  - Type systems
-  - Strong typing
-  - Weak typeing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - interface: 🙋 explained
+  - contract: 🎓 known
+  - module: 🖐️ used
+  - call stack: 👂 heard
 - Functions
-  - Signature
+  - signature: 🖐️ used
   - argument: 🖐️ used
   - parameter: 🖐️ used
-  - Pure function
+  - pure function: 🎓 known
   - lambda expression: 🖐️ used
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
+  - side effects: 🎓 known
+  - closure: 👂 heard
+  - partial application
+  - curry: 👂 heard
+  - higher order: 🎓 known
   - recursion: 🖐️ used
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - callback: 👂 heard
+  - listener: 🖐️ used
+  - compose
+  - pipe: 🖐️ used
+  - memoize: 🎓 known
+  - wrapper: 👂 heard
+  - functor
+  - monad
+  - monoid
+  - generator: 👂 heard
+  - coroutine
 - Data structures
-  - array: 🖐️ used
+  - array: 🙋 explained
   - structure: 👂 heard
   - record: 🖐️ used
   - enum: 🖐️ used
@@ -115,19 +94,36 @@
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🎓 known
-  - linked list: 🖐️ used
-  - Doubly list
-  - Unrolled list
-  - Circular list
+  - linked list: 🙋 explained
+  - doubly list: 🙋 explained
+  - unrolled list: 🎓 known
+  - circular list: 🙋 explained
   - queue: 🎓 known
-  - stack
+  - stack: 🎓 known
   - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
+  - iterator: 🎓 known
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
+  - serialization: 🖐️ used
+  - string parsing: 🖐️ used
+- Process & style
+  - compiler: 🖐️ used
+  - transpiler: 🎓 known
+  - linter: 🎓 known
+  - polyfill: 🎓 known
+  - debugger: 🖐️ used
+  - garbage collection: 🎓 known
+  - refactoring: 👂 heard
+  - code review: 👂 heard
+  - exception: 🖐️ used
+  - return early: 🎓 known
+  - unittest: 🖐️ used
   - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
+  - Mutable state: 🖐️ used
+  - Immutable state: 🖐️ used
+  - Serialization: 👂 heard
   - String parsing: 🖐️ used
   - JSON
   - JSON5
@@ -144,9 +140,9 @@
   - URI
 - Process and tools
   - Compiler: 👂 heard
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
+  - Transpiler: 🎓 known
   - Linter
   - Polyfill
   - Interpreter
@@ -173,29 +169,29 @@
   - LLVM
   - return early
 - Antipatterns
-  - Magic numbers
-  - Hard code: 🎓 known
+  - Magic numbers: 🙋 explained
+  - Hard code: 🙋 explained
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti: 🎓 known
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code: 🎓 known
-  - Duplicate code: 🎓 known
+  - Spaghetti: 🙋 explained
+  - Silver bullet: 🙋 explained
+  - Not invented here: 🙋 explained
+  - Dead code: 🙋 explained
+  - Unreachable code: 🙋 explained
+  - Duplicate code: 🙋 explained
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops: 🖐️ used
+  - Long method/function/procedure: 🙋 explained
+  - Long inheritance: 🙋 explained
+  - Large class/file: 🙋 explained
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🙋 explained
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -205,7 +201,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
@@ -215,12 +211,12 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
+  - File system: 👂 heard
+  - Linux: 👂 heard
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
