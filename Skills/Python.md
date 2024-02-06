@@ -2,75 +2,75 @@
 
 - Language
   - Object: 🎓 known
-  - self: 🖐️ used
-  - lambda functions: 🖐️ used
-  - async function
-  - __call__()
-  - __name__()
-  - apply
+  - self: 🙋 explained
+  - lambda functions: 🙋 explained
+  - async function: 🖐️ used
+  - __call__(): 🎓 known
+  - __name__(): 🖐️ used
+  - apply: 🎓 known
   - isinstance: 🎓 known
-  - *args
-  - **kwargs
-  - type()
-  - destructuring
-  - generator
-  - __iter__()
-  - __next__()
-  - async generator
-  - __aiter__()
-  - __anext__()
+  - *args: 🖐️ used
+  - **kwargs: 🖐️ used
+  - type(): 🎓 known
+  - destructuring: 🎓 known
+  - generator: 🎓 known
+  - __iter__(): 🎓 known
+  - __next__(): 🎓 known
+  - async generator: 👂 heard
+  - __aiter__(): 👂 heard
+  - __anext__(): 👂 heard
   - chaining: 🖐️ used
-  - optional chaining
+  - optional chaining: 👂 heard
   - global: 🖐️ used
-  - getters and setters: 🖐️ used
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators
-  - ternary operator: 🖐️ used
+  - getters and setters: 🙋 explained
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 👂 heard
+  - ternary operator: 🙋 explained
   - void: 🖐️ used
-  - yield
-  - await
+  - yield: 🎓 known
+  - await: 🖐️ used
   - template literal: 🖐️ used
-  - del
+  - del: 🎓 known
   - in: 🖐️ used
-  - super
-  - getattr()
-  - setattr()
+  - super: 🖐️ used
+  - getattr(): 🎓 known
+  - setattr(): 🎓 known
   - list comprehension: 🖐️ used
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - async for
-  - raise: 🖐️ used
-  - break: 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - async for: 👂 heard
+  - raise: 🙋 explained
+  - break: 🙋 explained
   - continue: 🖐️ used
   - import: 🖐️ used
   - export
   - try..catch: 🖐️ used
-  - class: 🖐️ used
+  - class: 🙋 explained
   - Exception: 🖐️ used
   - with: 🖐️ used
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object: 🖐️ used
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🙋 explained
 - Data structures
-  - list: 🖐️ used
-  - mixin
-  - extend
-  - dict: 🖐️ used
-  - set: 🖐️ used
+  - list: 🙋 explained
+  - mixin: 👂 heard
+  - extend: 🙋 explained
+  - dict: 🙋 explained
+  - set: 🙋 explained
   - None: 🖐️ used
-  - weak references
-  - time (module)
-  - asyncio (module)
-  - threading (module)
-  - re (module)
-  - datetime (module)
-  - bignum
+  - weak references: 👂 heard
+  - time (module): 🎓 known
+  - asyncio (module): 👂 heard
+  - threading (module): 👂 heard
+  - re (module): 🎓 known
+  - datetime (module): 🎓 known
+  - bignum: 🎓 known
 - Infrastructure
   - pip: 🖐️ used

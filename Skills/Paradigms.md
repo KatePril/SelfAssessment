@@ -1,10 +1,10 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
+  - Procedural programming: 🎓 known
   - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
   - Functional programming: 🖐️ used
   - Prototype-based programming
   - Object-oriented programming: 🖐️ used
@@ -12,12 +12,12 @@
   - Generic programming
   - Concurrent computing
   - Asyncronous programming: 👂 heard
-  - Parallel programming
+  - Parallel programming: 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Domain-specific languages: 🖐️ used
+  - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,27 +27,27 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: 🖐️ used
-  - Operator `new`: 🖐️ used
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Static method
-  - Async method
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
+  - Static method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
   - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
+  - Interface: 🙋 explained
   - Encapsulation: 🖐️ used
-  - Hidden class
+  - Hidden class: 🖐️ used
   - Object form
   - Instance: 🖐️ used
-  - Introspection
-  - Reflection
+  - Introspection: 🙋 explained
+  - Reflection: 🎓 known
   - The diamond problem
 - GRASP
   - Information expert
@@ -59,34 +59,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
-  - Singleton: 🎓 known
+  - Singleton: 🖐️ used
   - Factory Method: 🎓 known
   - Abstract Factory: 🎓 known
   - Adapter: 🎓 known
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🖐️ used
+  - State: 🎓 known
   - Bridge: 🎓 known
   - Builder: 🎓 known
-  - Prototype
+  - Prototype: 🎓 known
   - Composite: 🎓 known
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Decorator: 🎓 known
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
   - Reactor
   - Active object
   - Delegation
