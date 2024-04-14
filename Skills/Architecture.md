@@ -32,7 +32,7 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC): 🎓 known
-  - Dependency injection (DI): 🎓 known
+  - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🖐️ used
   - Domain-driven design (DDD): 🎓 known
   - Pub/sub
