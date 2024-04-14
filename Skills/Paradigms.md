@@ -6,14 +6,14 @@
   - Structured programming: 🎓 known
   - Non-structured programming: 🎓 known
   - Functional programming: 🖐️ used
-  - Prototype-based programming
+  - Prototype-based programming: 🎓 known
   - Object-oriented programming: 🖐️ used
   - Object-based programming
-  - Generic programming
+  - Generic programming: 🎓 known
   - Concurrent computing
-  - Asyncronous programming: 👂 heard
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 🎓 known
-  - Reactive programming
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages: 🖐️ used
@@ -50,14 +50,14 @@
   - Reflection: 🎓 known
   - The diamond problem
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations: 🎓 known
+  - Pure fabrication: 🎓 known
 - SOLID
   - Single-responsibility principle (SRP): 🎓 known
   - Open–closed principle (OCP): 🎓 known
