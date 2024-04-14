@@ -24,9 +24,9 @@
   - Machine code: 👂 heard
   - Microcode
   - Software engineering: 🎓 known
-  - Decomposition
+  - Decomposition: 🎓 known
   - Control flow: 👂 heard
-  - Data flow
+  - Data flow: 🎓 known
   - Code reuse: 🙋 explained
   - Defensive programming
   - Don't repeat yourself (DRY): 🙋 explained
@@ -85,8 +85,8 @@
 - Functions
   - Signature: 🖐️ used
   - argument: 🙋 explained
-  - paramete: 🙋 explained
-  - Pure function
+  - parameter: 🙋 explained
+  - Pure function: 🙋 explained
   - lambda expression: 🖐️ used
   - Side effects: 🙋 explained
   - Closure
@@ -105,7 +105,7 @@
   - Monad
   - Monoid
   - Generator
-  - Coroutine: 👂 heard
+  - Coroutine: 🖐️ used
 - Data structures
   - array: 🙋 explained
   - structure: 👂 heard
@@ -135,45 +135,45 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 🖐️ used
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
+  - NAT: 🖐️ used
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
-  - Compiler: 👂 heard
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Transpiler: 🎓 known
+  - Linter: 🎓 known
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime: 🎓 known
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger: 🖐️ used
   - Tracing
-  - Garbage collection
+  - Garbage collection: 🎓 known
   - Refactoring: 👂 heard
   - Code review: 👂 heard
   - Exception: 🖐️ used
   - Unittesting: 🖐️ used
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
-  - return early
+  - return early: 👂 heard
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
@@ -195,7 +195,7 @@
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
   - Too many parameters: 🙋 explained
-  - Pass-through parameters
+  - Pass-through parameters: 🖐️ used
   - Accumulate and fire
   - Use switch/case: 🙋 explained
   - Temporary field
