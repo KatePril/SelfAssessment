@@ -5,11 +5,11 @@
   - this: 👂 heard
   - arrow function: 👂 heard
   - async function: 👂 heard
-  - call
-  - bind
+  - call: 👂 heard
+  - bind: 👂 heard
   - apply: 👂 heard
   - instanceof: 👂 heard
-  - ...spread
+  - ...spread: 👂 heard
   - ...rest: 👂 heard
   - typeof: 👂 heard
   - `Function`: 🎓 known
@@ -17,7 +17,7 @@
   - `Number`: 🎓 known
   - `BigInt`: 🎓 known
   - `String`: 🎓 known
-  - `Symbol`
+  - `Symbol`: 👂 heard
   - `Infinity`: 🎓 known
   - `NaN`: 🎓 known
   - `undefined`: 🎓 known
@@ -46,11 +46,11 @@
   - delete: 👂 heard
   - in: 👂 heard
   - super: 👂 heard
-  - Symbol
-  - Reflect
+  - Symbol: 👂 heard
+  - Reflect: 👂 heard
   - Async IIFE
   - `global`: 🎓 known
-  - `globalThis`
+  - `globalThis`: 👂 heard
   - `window`
   - `void`: 🎓 known
   - Template literal: 🎓 known
@@ -73,8 +73,8 @@
   - Private class methods: 🎓 known
 - Statements
   - `extends`: 🎓 known
-  - `with`
-  - `new`
+  - `with`: 👂 heard
+  - `new`: 👂 heard
   - if: 🖐️ used
   - while: 🖐️ used
   - do..while: 🎓 known
@@ -87,12 +87,11 @@
   - continue: 🖐️ used
   - import: 🎓 known
   - export: 🎓 known
-  - label
+  - label: 👂 heard
   - try..catch: 🎓 known
   - switch: 🖐️ used
   - class: 🎓 known
   - new: 🎓 known
-  - with
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🎓 known
@@ -101,9 +100,9 @@
   - functional object: 🎓 known
   - Arrow function: 👂 heard
   - Async function: 👂 heard
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
 - Data structures
   - `Array`: 🎓 known
   - `Map`: 🎓 known
@@ -115,7 +114,7 @@
   - Mixins: 👂 heard
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy`: 👂 heard
   - `RegExp`: 👂 heard
   - `Date`: 👂 heard
   - `Math`
@@ -126,7 +125,7 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise`: 👂 heard
   - `console`: 🖐️ used
   - Timers: 👂 heard
   - EventEmitter
@@ -136,6 +135,6 @@
   - V8: 👂 heard
   - Node.js: 👂 heard
   - npm: 👂 heard
-  - prettier
+  - prettier: 👂 heard
   - MDN
   - TC39
