@@ -92,7 +92,7 @@
 - Timers (platform-specific in Kotlin, e.g., `delay` in Kotlin Coroutines)
 - `BigInteger`
 
-### P_latforms
+### Platforms
 - JVM: 👂 heard
 - Native: 👂 heard
 - WebAssembly (Wasm): 👂 heard
