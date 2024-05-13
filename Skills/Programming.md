@@ -99,12 +99,12 @@
   - Listener: 🖐️ used
   - Composition: 🖐️ used
   - Pipe: 👂 heard
-  - Memoize
+  - Memoize: 👂 heard
   - Wrapper: 👂 heard
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
+  - Functor: 👂 heard
+  - Monad: 👂 heard
+  - Monoid: 👂 heard
+  - Generatorv
   - Coroutine: 🖐️ used
 - Data structures
   - array: 🙋 explained
@@ -198,7 +198,7 @@
   - Pass-through parameters: 🖐️ used
   - Accumulate and fire
   - Use switch/case: 🙋 explained
-  - Temporary field
+  - Temporary field: 🎓 known
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
