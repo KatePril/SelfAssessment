@@ -50,7 +50,6 @@
 - `protected`: 🙋 explained
 - `internal`: 🙋 explained
 - `public`: 🙋 explained
-
 ### Statements
 - `class` name() `:` [parentClass]: 🙋 explained
 - `constructor`: 🙋 explained
@@ -65,7 +64,6 @@
 - `try..catch`: 🙋 explained
 - `return`: 🙋 explained
 - `with`: 🙋 explained
-
 ### Functions
 - Function declaration: 🙋 explained
 - Function expression: 🙋 explained
@@ -75,13 +73,11 @@
 - Lambda expressions: 🙋 explained
 - `suspend` modifier: 🙋 explained
 - `::` function references: 🙋 explained
-
 ### Data structures
 - `Array`: 🙋 explained
 - `Map`: 🙋 explained
 - `Set`: 🙋 explained
 - `copy` function
-
 ### Standard classes and namespaces
 - `Regex`: 🎓 known
 - `Date`: 🖐️ used
@@ -91,7 +87,6 @@
 - `println`: 🖐️ used
 - Timers (platform-specific in Kotlin, e.g., `delay` in Kotlin Coroutines)
 - `BigInteger`
-
 ### Platforms
 - JVM: 👂 heard
 - Native: 👂 heard

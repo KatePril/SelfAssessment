@@ -113,7 +113,6 @@
   - enum: 🖐️ used
   - instance: 🖐️ used
   - object: 🖐️ used
-  - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🎓 known
