@@ -11,11 +11,11 @@
 - `Number`: 🙋 explained
 - `BigInteger`: 🎓 known
 - `String`: 🙋 explained
-- `Double.POSITIVE_INFINITY`
+- `Double.POSITIVE_INFINITY`: 🎓 known
 - `null`: 🖐️ used
 - Destructuring
 - Iterators: 🎓 known
-- `suspend` modifier
+- `suspend` modifier: 🖐️ used
 - `suspend` modifier for iterators
 - Chaining: 🎓 known
 - Safe calls: 🎓 known
@@ -24,7 +24,7 @@
 - `object` expressions: 🙋 explained
 - Getters and Setters: 🙋 explained
 - `::class`: 🎓 known
-- `::class.java`
+- `::class.java: 🖐️ used
 - Equality operators: 🙋 explained
 - Logical operators: 🙋 explained
 - Logical Assignment
@@ -34,19 +34,18 @@
 - `yield`
 - `await`
 - `kotlin.reflect` package
-- `runBlocking`
+- `runBlocking`: 🖐️ used
 - `Nothing`: 🎓 known
 - Template literals: 🙋 explained
 - `super`: 🙋 explained
-- `companion object`
-- `lateinit`
-- `by lazy`
+- `companion object`: 🖐️ used
+- `lateinit`: 🖐️ used
+- `by lazy`: 🖐️ used
 - `sealed` classes: 👂 heard
 - `data` classes: 🙋 explained
 - Computed properties
 - `val`: 🙋 explained
 - `var`: 🙋 explained
-- `companion object`
 - `private`: 🙋 explained
 - `protected`: 🙋 explained
 - `internal`: 🙋 explained
@@ -74,7 +73,7 @@
 - `fun`: 🙋 explained
 - Lambda expressions: 🙋 explained
 - `suspend` modifier: 🙋 explained
-- `::` function references
+- `::` function references: 🖐️ used
 
 ### Data structures
 - `Array`: 🙋 explained

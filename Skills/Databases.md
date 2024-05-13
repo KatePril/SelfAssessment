@@ -5,12 +5,12 @@
   - Performance tuning
   - Migrations: 🖐️ used
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
+  - Backup and recovery: 👂 heard
+  - Database scalability: 🎓 known
   - Relational databases: 🖐️ used
   - Key-value store: 🖐️ used
   - Tuple store
-  - Graph databases
+  - Graph databases: 👂 heard
   - Object databases
   - Column databases
   - Navigational databases
@@ -20,18 +20,18 @@
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL): 👂 heard
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
   - Primary keys: 🖐️ used
   - Foreign keys: 🖐️ used
-  - Transactions
+  - Transactions: 🎓 known
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions: 👂 heard
   - Materialized views
   - Replications
   - Virtualization
@@ -42,18 +42,18 @@
   - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
   - `HAVING`
   - `EXISTS`: 🖐️ used
   - `JOIN`: 🖐️ used
   - `INNER JOIN`: 🎓 known
   - `LEFT JOIN`: 🎓 known
   - `RIGHT JOIN`: 🎓 known
-  - `UNION`
+  - `UNION`: 🖐️ used
   - `DISTINCT`: 🖐️ used
   - `WHERE`: 🖐️ used
-  - `LIKE`
+  - `LIKE`: 🖐️ used
   - `IN`: 🖐️ used
   - `BETWEEN`: 🖐️ used
   - `CREATE TABLE`: 🖐️ used
@@ -71,19 +71,19 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL: 🖐️ used
-  - Oracle
+  - Oracle: 👂 heard
   - MySQL: 🖐️ used
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server: 🖐️ used
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
   - SQLite: 🖐️ used
   - DynamoDB
-  - Firebase
+  - Firebase: 👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence
@@ -91,4 +91,4 @@
   - Data analysis
   - AI tools
   - Cloud databses
-  - Data Visualization
+  - Data Visualization: 👂 heard

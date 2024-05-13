@@ -2,8 +2,8 @@
 
 - Theory
   - Event loop
-  - `try..catch`
-  - Non-blocking
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🎓 known
   - Async I/O
   - Thread pool
   - Pattern Reactor
@@ -13,19 +13,19 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread
+  - Thread: 🎓 known
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise
+  - Promise: 👂 heard
   - Async/await
   - Future
   - Deferred
@@ -33,13 +33,13 @@
   - Async Generator
   - Async Iterator
   - Event
-  - Coroutine
+  - Coroutine: 🖐️ used
   - Goroutine
   - Signal
-  - Stream
-  - Chain of responsibility
+  - Stream: 🎓 known
+  - Chain of responsibility: 🎓 known
   - Middleware
-  - Locks
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify
   - promisify

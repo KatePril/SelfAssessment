@@ -10,7 +10,7 @@
   - apply: 👂 heard
   - instanceof: 👂 heard
   - ...spread
-  - ...rest
+  - ...rest: 👂 heard
   - typeof: 👂 heard
   - `Function`: 🎓 known
   - `Boolean`: 🎓 known
@@ -31,8 +31,8 @@
   - Optional chaining: 👂 heard
   - IIFE
   - getters and setters: 👂 heard
-  - __proto__
-  - prototype
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
   - equality operators: 👂 heard
   - logical operators: 👂 heard
   - Logical Assignment
@@ -52,25 +52,25 @@
   - `global`: 🎓 known
   - `globalThis`
   - `window`
-  - `void`
-  - Template literal
-  - Strict mode
+  - `void`: 🎓 known
+  - Template literal: 🎓 known
+  - Strict mode: 👂 heard
   - Hoisting
   - `delete`
   - `in`: 👂 heard
   - `super`: 👂 heard
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `extends`: 🎓 known
   - `with`
@@ -133,7 +133,7 @@
   - RegExp: 👂 heard
   - BigInt: 🎓 known
 - Infrastructure
-  - V8
+  - V8: 👂 heard
   - Node.js: 👂 heard
   - npm: 👂 heard
   - prettier

@@ -4,41 +4,35 @@
   - Modularity: 🖐️ used
   - Components: 🖐️ used
   - Directories: 🙋 explained
-  - GRASP
+  - GRASP: 🎓 known
   - SOLID: 🙋 explained
   - GoF patterns: 🖐️ used
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
-  - Reliability
+  - Reliability: 🎓 known
   - Quality: 🙋 explained
-  - Availability
+  - Availability: 🎓 known
   - Flexibility: 🎓 known
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD): 🎓 known
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 🎓 known
-  - System vs applied code
+  - System vs applied code: 🎓 known
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC): 🎓 known
-  - Dependency injection (DI): 🎓 known
+  - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🖐️ used
   - Domain-driven design (DDD): 🎓 known
   - Pub/sub
@@ -52,10 +46,10 @@
   - Entity-relationship diagram: 🎓 known
   - IDEF1X
   - UML: 🎓 known
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
+  - Work breakdown structure: 🎓 known
+  - Budget estimation: 🎓 known
+  - Distributed systems: 👂 heard
+  - High-intensive computing: 🎓 known
   - Load balancing
   - Gateways
   - On-premises
@@ -67,31 +61,31 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS): 🎓 known
   - Solution visions
   - Solution capabilities
   - System design
   - Process modelling
   - Data modelling
   - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
+  - Risk assessment: 🎓 known
+  - Non Functional Requirements (NFR): 🎓 known
   - Clouds
   - BPMN
   - Low-code
   - No-code: 🎓 known
-  - Metric
+  - Metric: 🎓 known
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs: 🎓 known
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 🎓 known
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
