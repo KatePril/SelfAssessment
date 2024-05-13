@@ -31,7 +31,6 @@
   - Operator `new`: 🙋 explained
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Static method: 🖐️ used
   - Async method: 🎓 known
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
