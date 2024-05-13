@@ -55,9 +55,9 @@
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS: 🎓 known
   - FaaS clouds
-  - Serverless
+  - Serverless: 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -88,7 +88,7 @@
   - Project scope: 🎓 known
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
