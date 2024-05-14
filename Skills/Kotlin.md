@@ -17,13 +17,13 @@
 - Iterators: 🎓 known
 - `suspend` modifier: 🖐️ used
 - `suspend` modifier for iterators
-- Chaining: 🎓 known
-- Safe calls: 🎓 known
+- Chaining: 🖐️ used
+- Safe calls: 🖐️ used
 - Lambda expressions: 🙋 explained
-- Extension functions: 🎓 known
+- Extension functions: 🙋 explained
 - `object` expressions: 🙋 explained
 - Getters and Setters: 🙋 explained
-- `::class`: 🎓 known
+- `::class`: 🖐️ used
 - `::class.java: 🖐️ used
 - Equality operators: 🙋 explained
 - Logical operators: 🙋 explained
@@ -31,8 +31,8 @@
 - Bitwise operators
 - Elvis operator: 🙋 explained
 - `Unit`: 🙋 explained
-- `yield`
-- `await`
+- `yield`: 👂 heard
+- `await`: 👂 heard
 - `kotlin.reflect` package
 - `runBlocking`: 🖐️ used
 - `Nothing`: 🎓 known
@@ -50,7 +50,6 @@
 - `protected`: 🙋 explained
 - `internal`: 🙋 explained
 - `public`: 🙋 explained
-
 ### Statements
 - `class` name() `:` [parentClass]: 🙋 explained
 - `constructor`: 🙋 explained
@@ -64,7 +63,7 @@
 - `import`: 🙋 explained
 - `try..catch`: 🙋 explained
 - `return`: 🙋 explained
-
+- `with`: 🙋 explained
 ### Functions
 - Function declaration: 🙋 explained
 - Function expression: 🙋 explained
@@ -73,25 +72,22 @@
 - `fun`: 🙋 explained
 - Lambda expressions: 🙋 explained
 - `suspend` modifier: 🙋 explained
-- `::` function references: 🖐️ used
-
+- `::` function references: 🙋 explained
 ### Data structures
 - `Array`: 🙋 explained
 - `Map`: 🙋 explained
 - `Set`: 🙋 explained
 - `copy` function
-
 ### Standard classes and namespaces
 - `Regex`: 🎓 known
-- `Date`
+- `Date`: 🖐️ used
 - `Math`
 - `Error`
 - `JSON`: 🖐️ used
 - `println`: 🖐️ used
 - Timers (platform-specific in Kotlin, e.g., `delay` in Kotlin Coroutines)
 - `BigInteger`
-
-### P_latforms
+### Platforms
 - JVM: 👂 heard
 - Native: 👂 heard
 - WebAssembly (Wasm): 👂 heard

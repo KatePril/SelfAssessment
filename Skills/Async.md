@@ -16,7 +16,7 @@
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
-  - Concurrent programming
+  - Concurrent programming: 🖐️ used
   - Parallel programming: 🎓 known
   - Actor Model
   - Thread: 🎓 known
@@ -26,19 +26,18 @@
   - Callback-last-error-first
   - Thenable
   - Promise: 👂 heard
-  - Async/await
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
   - Event
   - Coroutine: 🖐️ used
-  - Goroutine
   - Signal
   - Stream: 🎓 known
   - Chain of responsibility: 🎓 known
-  - Middleware
+  - Middleware: 👂 heard
   - Locks: 🎓 known
 - Async adapters and utils
   - callbackify
@@ -47,16 +46,16 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 🖐️ used
   - Readable
   - Writable
   - Transform
   - Async Pool
-  - Async Queue
+  - Async Queue: 👂 heard
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore: 🎓 known
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
@@ -71,14 +70,14 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 👂 heard
   - Better stack traces with return await
-  - JSON streaming serialization
+  - JSON streaming serialization: 🎓 known
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
+  - RxJS library: 👂 heard
   - Promise.all
   - Promise.allSettled
   - Promise.race

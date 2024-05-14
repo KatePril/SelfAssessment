@@ -41,8 +41,8 @@
 - Data structures
   - array: 🙋 explained
   - List: 🙋 explained
-  - ArrayList: 🚀 constructed (primitive realisation)
-  - LinkedList: 🚀 constructed (primitive realisation)
+  - ArrayList: 🚀 constructed (primitive realisation) 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - LinkedList: 🚀 constructed (primitive realisation) 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
   - Map: 🖐️ used
   - HashMap: 🖐️ used
   - LinkedHashMap: 👂 heard
@@ -52,7 +52,7 @@
   - LinkedHashSet: 👂 heard
   - TreeSet: 👂 heard
   - mixin: 👂 heard
-  - extend: 🖐️ used 
+  - extend: 🖐️ used
   - null: 🖐️ used
   - Timer: 👂 heard
   - regular expression: 🖐️ used

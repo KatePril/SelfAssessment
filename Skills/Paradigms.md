@@ -31,7 +31,6 @@
   - Operator `new`: 🙋 explained
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Static method: 🖐️ used
   - Async method: 🎓 known
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
@@ -66,7 +65,7 @@
   - Dependency inversion principle (DIP): 🎓 known
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 🎓 known
+  - Factory Method: 🖐️ used
   - Abstract Factory: 🎓 known
   - Adapter: 🎓 known
   - Observer: 🎓 known

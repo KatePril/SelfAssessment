@@ -15,14 +15,14 @@
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases
+  - In-memory databases: 🖐️ used
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
   - Data query language (DQL): 👂 heard
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram: 👂 heard
   - Normal forms
   - Indexing
   - Primary keys: 🖐️ used
@@ -34,20 +34,20 @@
   - SQL functions: 👂 heard
   - Materialized views
   - Replications
-  - Virtualization
+  - Virtualization: 👂 heard
 - SQL
   - `SELECT`: 🖐️ used
   - `INSERT`: 🖐️ used
   - `UPDATE`: 🖐️ used
   - `DELETE`: 🖐️ used
-  - `LIMIT`
-  - `OFFSET`
+  - `LIMIT`: 🎓 known
+  - `OFFSET`: 🎓 known
   - `ORDER BY`: 🖐️ used
   - `GROUP BY`: 🖐️ used
   - `HAVING`
   - `EXISTS`: 🖐️ used
   - `JOIN`: 🖐️ used
-  - `INNER JOIN`: 🎓 known
+  - `INNER JOIN`: 🖐️ used
   - `LEFT JOIN`: 🎓 known
   - `RIGHT JOIN`: 🎓 known
   - `UNION`: 🖐️ used
@@ -75,7 +75,7 @@
   - MySQL: 🖐️ used
   - MariaDB
   - MS SQL Server: 🖐️ used
-  - Redis
+  - Redis: 👂 heard
   - Rabbit
   - MongoDB: 👂 heard
   - Memcached
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databses
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
   - Data Visualization: 👂 heard
