@@ -65,7 +65,7 @@
   - Dependency inversion principle (DIP): 🎓 known
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 🎓 known
+  - Factory Method: 🖐️ used
   - Abstract Factory: 🎓 known
   - Adapter: 🎓 known
   - Observer: 🎓 known
