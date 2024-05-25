@@ -75,8 +75,8 @@
   - `extends`: 🎓 known
   - `with`: 👂 heard
   - `new`: 👂 heard
-  - if: 🖐️ used
-  - while: 🖐️ used
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
   - do..while: 🎓 known
   - for: 🖐️ used
   - for..in: 🎓 known
