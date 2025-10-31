@@ -94,8 +94,6 @@
 | Template literal | 🎓 known | ⟶  | 🖐️ used |
 | Strict mode | 👂 heard | ⟶  | 🖐️ used |
 | `super` | 👂 heard | ⟶  | 🖐️ used |
-| `if` | 🤷 unknown | ⟶  | 🖐️ used |
-| `while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `do..while` | 🤷 unknown | ⟶  | 🎓 known |
 | `for` | 🤷 unknown | ⟶  | 🖐️ used |
 | `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -127,7 +125,7 @@
 | Timers | 👂 heard | ⟶  | 🖐️ used |
 | prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `13` of `72` skills, `59` to be upgraded, and `2` above needed
+Total: you have `15` of `72` skills, `57` to be upgraded, and `2` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -177,8 +175,6 @@ Total: you have `13` of `72` skills, `59` to be upgraded, and `2` above needed
 | Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Computed properties | 🤷 unknown | ⟶  | 🎓 known |
 | Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
-| `if` | 🤷 unknown | ⟶  | 🖐️ used |
-| `while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `do..while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `for` | 🤷 unknown | ⟶  | 🖐️ used |
 | `for..in` | 🤷 unknown | ⟶  | 🎓 known |
@@ -220,7 +216,7 @@ Total: you have `13` of `72` skills, `59` to be upgraded, and `2` above needed
 | npm | 👂 heard | ⟶  | 🎓 known |
 | prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `9` of `97` skills, `88` to be upgraded, and `0` above needed
+Total: you have `11` of `97` skills, `86` to be upgraded, and `0` above needed
 
 ## [Async](/Skills/Async.md)
 

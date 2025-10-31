@@ -41,8 +41,8 @@
 - Data structures
   - array: 🙋 explained
   - List: 🙋 explained
-  - ArrayList: 🚀 constructed (primitive realisation) 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
-  - LinkedList: 🚀 constructed (primitive realisation) 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - ArrayList: 🚀 constructed (primitive realisation) 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - LinkedList: 🚀 constructed (primitive realisation) 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
   - Map: 🖐️ used
   - HashMap: 🖐️ used
   - LinkedHashMap: 👂 heard
